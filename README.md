@@ -7,7 +7,7 @@ Full-Stack Developer building modern web applications, APIs, and AI-integrated p
 - 🤖 Recent focus: reviewable, production-minded AI features (resume tailoring, job-match analysis) rather than one-off demos
 - 🌱 Background: full-stack engineering at CloudEQ Software, independent product development since
 - 📫 Reach me at **srvpraveen002@gmail.com**
-- 🌐 Portfolio & case studies: **[praveenkumar.skanto.in](https://praveenkumar-0d362e.netlify.app/)**
+- 🌐 Portfolio & case studies: **[praveenkumar-portfolio-website](https://praveenkumar-0d362e.netlify.app/)**
 
 ## Stack
 
