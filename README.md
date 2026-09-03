@@ -18,10 +18,6 @@ Full-Stack Developer building modern web applications, APIs, and AI-integrated p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## GitHub stats
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=prvnkmr-s&show_icons=true&theme=default&hide_border=true)
-
 ---
 
 Open to full-time roles, product work, and select freelance projects.
